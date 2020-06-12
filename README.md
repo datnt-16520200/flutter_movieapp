@@ -1,5 +1,6 @@
 # flutter_movieapp
 The project contains a django server, movies' data, and a flutter movie app
+Note: this application only runs on virtual machines, because it must be connected to the local server
 <br>- Some screens of this app:
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;Figure 1. Login screen&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Figure 2. Home screen
 <br>![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/login_screen.PNG)
@@ -15,3 +16,5 @@ The project contains a django server, movies' data, and a flutter movie app
 <br>![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/get_movie_api.PNG)<br>
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Figure 8. Recommended Movie API
 <br>![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/recommend_api.PNG)<br>
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Figure 8. Search Movie API
+<br>![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/search_movies_api.PNG)
