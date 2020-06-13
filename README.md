@@ -11,7 +11,7 @@ The project contains a django server, movies' data, and a flutter movie app
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;Figure 5. Search screen&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Figure 6. Movie detail screen
 <br>![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/search_screen.PNG)
 ![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/detail_movie_screen.PNG)<br>
-<br>- Some screens of this server:
+<br>- Some APIs of this server:
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Figure 7. Movie detail API
 <br>![alt text](https://github.com/datnt-16520200/flutter_movieapp/blob/master/images/get_movie_api.PNG)<br>
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Figure 8. Recommended Movie API
